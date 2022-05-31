@@ -1,7 +1,5 @@
-enter username as 
-gogi17
+enter username : gogi17
 or 
-ur phone number 
-   8660253
-password
-gforgogi
+phone number : 8660253
+
+password : gforgogi
